@@ -7,9 +7,13 @@ This makes the app more testable and gives some added type-safety benefits to En
 Notable changes
 
 `src/environments/ienvironment.ts`
+
 `src/environments/environment.*.ts`
+
 `src/app/environment.service.ts`
+
 `src/app/app.component.ts`
+
 `src/app/app.component.spec.ts`
 
 ## Standard ng CLI boilerplace below ...
